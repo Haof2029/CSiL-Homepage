@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "description": "Building the future through innovation and collaboration",
+    "keywords": "technology, innovation, collaboration, future"
+  },
+  "home": {
+    "title": "Welcome to CSiL.ai",
+    "subtitle": "Building the future through innovation and collaboration",
+    "hero": {
+      "title": "Innovation That Matters",
+      "content": "We're on a mission to create technology that makes a real difference in people's lives.",
+      "sections": [
+        {
+          "title": "Our Mission",
+          "content": "Creating technology that empowers and inspires"
+        },
+        {
+          "title": "Our Vision",
+          "content": "Building a more connected and innovative world"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our purpose and the future we're building",
+    "story": {
+      "title": "Our Story",
+      "subtitle": "The journey of innovation and growth",
+      "beginning": {
+        "title": "The Beginning",
+        "content": "Founded with a vision to transform"
+      },
+      "journey": {
+        "title": "Our Journey",
+        "items": {
+          "founded": "Founded with a vision to transform the industry",
+          "grew": "Grew from a small team to a global company",
+          "expanding": "Continuously innovating and expanding our impact"
+        }
+      }
+    },
+    "leadership": {
+      "title": "Leadership Team",
+      "subtitle": "Meet the people driving our vision",
+      "team": {
+        "title": "Executive Team",
+        "roles": {
+          "ceo": "Leading our vision and strategy",
+          "cto": "Driving technological innovation"
+        }
+      },
+      "principles": {
+        "title": "Leadership Principles",
+        "items": {
+          "innovation": "Innovation-driven mindset",
+          "inclusive": "Inclusive decision-making",
+          "transparent": "Transparent communication"
+        }
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "subtitle": "Making a difference through technology"
+    }
+  },
+  "culture": {
+    "title": "Our Culture",
+    "subtitle": "Building a workplace where innovation thrives",
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide our decisions and shape our culture",
+      "core": {
+        "title": "Our Core Values",
+        "excellence": {
+          "title": "Excellence",
+          "description": "Striving for the highest quality in everything we do"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Embracing new ideas and creative solutions"
+        }
+      },
+      "living": {
+        "title": "Living Our Values",
+        "recognition": "Recognizing and celebrating value-driven behaviors",
+        "trust": "Building strong relationships based on trust"
+      }
+    },
+    "workLife": {
+      "title": "Work Life at Company",
+      "subtitle": "A balanced approach to work and life",
+      "environment": {
+        "title": "Work Environment",
+        "office": {
+          "title": "Modern Office",
+          "description": "Collaborative spaces designed for creativity"
+        },
+        "remote": {
+          "title": "Remote Work",
+          "description": "Flexible work arrangements for better balance"
+        }
+      },
+      "daily": {
+        "title": "Daily Life",
+        "bonding": "Coffee chats and team bonding",
+        "recreation": "Recreation and relaxation spaces"
+      },
+      "benefits": {
+        "title": "Employee Benefits",
+        "subtitle": "Comprehensive benefits that support your health, wealth, and well-being",
+        "health": {
+          "title": "Health & Wellness",
+          "items": {
+            "medical": "Comprehensive medical coverage",
+            "dental": "Dental and vision plans",
+            "mental": "Mental health support",
+            "gym": "Gym membership"
+          }
+        },
+        "financial": {
+          "title": "Financial Benefits",
+          "items": [
+            "Competitive salary",
+            "401(k) with company match",
+            "Stock options",
+            "Performance bonuses"
+          ]
+        },
+        "timeOff": {
+          "title": "Time Off",
+          "items": [
+            "Unlimited PTO",
+            "Paid holidays",
+            "Parental leave",
+            "Sabbatical program"
+          ]
+        },
+        "growth": {
+          "title": "Growth & Development",
+          "items": [
+            {
+              "icon": "📚",
+              "text": "Learning and development budget"
+            },
+            {
+              "icon": "🎓",
+              "text": "Conference and training opportunities"
+            },
+            {
+              "icon": "🚀",
+              "text": "Career advancement programs"
+            }
+          ]
+        },
+        "workLife": {
+          "title": "Work-Life Balance",
+          "items": [
+            {
+              "icon": "🏠",
+              "text": "Flexible work arrangements"
+            },
+            {
+              "icon": "🍎",
+              "text": "Healthy snacks and meals"
+            },
+            {
+              "icon": "🎮",
+              "text": "Recreation and relaxation spaces"
+            }
+          ]
+        }
+      }
+    },
+    "benefits": {
+      "title": "Employee Benefits",
+      "subtitle": "Comprehensive benefits that support your health, wealth, and well-being",
+      "health": {
+        "title": "Health & Wellness",
+        "items": {
+          "medical": "Comprehensive medical coverage",
+          "dental": "Dental and vision plans",
+          "mental": "Mental health support",
+          "gym": "Gym membership"
+        }
+      }
+    }
+  },
+  "pluralism": {
+    "title": "Embracing Pluralism",
+    "subtitle": "Diversity of thought, background, and experience",
+    "diversity": {
+      "title": "Embracing Diversity",
+      "subtitle": "Building a workplace where different perspectives thrive",
+      "commitment": {
+        "title": "Our Commitment",
+        "culture": {
+          "title": "Inclusive Culture",
+          "description": "Celebrating our differences and unique perspectives"
+        },
+        "opportunity": {
+          "title": "Equal Opportunity",
+          "description": "Fair and equitable treatment for everyone"
+        }
+      },
+      "initiatives": {
+        "title": "Initiatives",
+        "training": "Diversity training and education programs",
+        "mentorship": "Employee resource groups and mentorship"
+      }
+    },
+    "inclusion": {
+      "title": "Fostering Inclusion",
+      "subtitle": "Creating an environment where everyone feels valued"
+    },
+    "community": {
+      "title": "Our Community Impact",
+      "subtitle": "Building meaningful connections and creating positive change"
+    }
+  },
+  "join": {
+    "title": "Join Our Team",
+    "subtitle": "Be part of something extraordinary"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "culture": "Culture",
+    "pluralism": "Pluralism",
+    "join": "Join Us"
+  }
+} 

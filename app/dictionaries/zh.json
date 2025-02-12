@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "description": "通过创新和协作构建未来",
+    "keywords": "技术, 创新, 协作, 未来"
+  },
+  "home": {
+    "title": "欢迎来到 CSiL.ai",
+    "subtitle": "通过创新和协作构建未来",
+    "hero": {
+      "title": "创新改变生活",
+      "content": "我们的使命是创造能真正改变人们生活的技术。",
+      "sections": [
+        {
+          "title": "我们的使命",
+          "content": "创造赋能和启发的技术"
+        },
+        {
+          "title": "我们的愿景",
+          "content": "构建更紧密连接和创新的世界"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "我们的目标和未来愿景",
+    "story": {
+      "title": "我们的故事",
+      "subtitle": "创新与成长的旅程",
+      "beginning": {
+        "title": "起点",
+        "content": "创立之初就怀着改变的愿景"
+      },
+      "journey": {
+        "title": "发展历程",
+        "items": {
+          "founded": "带着改变行业的愿景创立",
+          "grew": "从小团队发展为全球公司",
+          "expanding": "持续创新并扩大影响力"
+        }
+      }
+    },
+    "leadership": {
+      "title": "领导团队",
+      "subtitle": "推动愿景前进的人",
+      "team": {
+        "title": "管理团队",
+        "roles": {
+          "ceo": "引领愿景和战略",
+          "cto": "推动技术创新"
+        }
+      },
+      "principles": {
+        "title": "领导力原则",
+        "items": {
+          "innovation": "创新驱动思维",
+          "inclusive": "包容性决策",
+          "transparent": "透明沟通"
+        }
+      }
+    },
+    "mission": {
+      "title": "使命与愿景",
+      "subtitle": "我们的目标和未来蓝图"
+    }
+  },
+  "culture": {
+    "title": "企业文化",
+    "subtitle": "打造创新蓬勃发展的工作环境",
+    "values": {
+      "title": "价值观",
+      "subtitle": "指导我们决策并塑造我们文化的原则",
+      "core": {
+        "title": "核心价值观",
+        "excellence": {
+          "title": "卓越",
+          "description": "追求卓越品质"
+        },
+        "innovation": {
+          "title": "创新",
+          "description": "突破界限，拥抱新想法"
+        }
+      },
+      "living": {
+        "title": "践行我们的价值观",
+        "recognition": "认可成就",
+        "trust": "建立信任和尊重"
+      }
+    },
+    "workLife": {
+      "title": "工作生活平衡",
+      "subtitle": "平衡的工作生活方式",
+      "environment": {
+        "title": "工作环境",
+        "office": {
+          "title": "现代办公室",
+          "description": "为创造力设计的协作空间"
+        },
+        "remote": {
+          "title": "远程工作",
+          "description": "灵活的工作安排以实现更好的平衡"
+        }
+      },
+      "daily": {
+        "title": "日常生活",
+        "bonding": "咖啡聊天和团队建设",
+        "recreation": "休闲放松空间"
+      }
+    },
+    "benefits": {
+      "title": "员工福利",
+      "subtitle": "支持您的健康、财富和福祉的全面福利",
+      "health": {
+        "title": "健康与养生",
+        "items": {
+          "medical": "全面医疗保障",
+          "dental": "牙科和视力保障",
+          "mental": "心理健康支持",
+          "gym": "健身房会员"
+        }
+      },
+      "financial": {
+        "title": "财务福利",
+        "items": [
+          "具有竞争力的薪资",
+          "401(k)公司匹配",
+          "股票期权",
+          "绩效奖金"
+        ]
+      },
+      "timeOff": {
+        "title": "休假制度",
+        "items": [
+          "无限带薪休假",
+          "带薪节假日",
+          "育儿假期",
+          "进修假期"
+        ]
+      },
+      "growth": {
+        "title": "成长与发展",
+        "items": [
+          {
+            "icon": "📚",
+            "text": "学习发展基金"
+          },
+          {
+            "icon": "🎓",
+            "text": "会议和培训机会"
+          },
+          {
+            "icon": "🚀",
+            "text": "职业晋升计划"
+          }
+        ]
+      },
+      "workLife": {
+        "title": "工作生活平衡",
+        "items": [
+          {
+            "icon": "🏠",
+            "text": "灵活的工作安排"
+          },
+          {
+            "icon": "🍎",
+            "text": "健康零食和餐点"
+          },
+          {
+            "icon": "🎮",
+            "text": "休闲放松空间"
+          }
+        ]
+      }
+    }
+  },
+  "pluralism": {
+    "title": "多元包容",
+    "subtitle": "思想、背景和经验的多样性",
+    "diversity": {
+      "title": "多样性",
+      "subtitle": "建立不同观点蓬勃发展的工作场所",
+      "commitment": {
+        "title": "我们的承诺",
+        "culture": {
+          "title": "包容性文化",
+          "description": "庆祝我们的差异和独特视角"
+        },
+        "opportunity": {
+          "title": "平等机会",
+          "description": "公平公正的对待每个人"
+        }
+      },
+      "initiatives": {
+        "title": "倡议",
+        "training": "多元化培训和教育项目",
+        "mentorship": "员工资源组和指导计划"
+      }
+    },
+    "inclusion": {
+      "title": "包容性",
+      "subtitle": "创造每个人都感到被重视的环境"
+    },
+    "community": {
+      "title": "社区",
+      "subtitle": "建立有意义的联系并创造积极变化"
+    }
+  },
+  "join": {
+    "title": "加入我们",
+    "subtitle": "成为非凡团队的一员"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "culture": "企业文化",
+    "pluralism": "多元化",
+    "join": "加入我们"
+  }
+} 
